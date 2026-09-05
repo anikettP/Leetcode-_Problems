@@ -6,5 +6,5 @@ Each solution focuses on a clean and efficient approach.
 
 Languages: C / C++
 Platform: LeetCode
-
+https://leetcode.com/u/aniketpatel_23/
 More solutions will be added as I continue practicing and improving my DSA skills.
